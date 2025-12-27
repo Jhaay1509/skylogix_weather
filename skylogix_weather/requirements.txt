@@ -1,0 +1,8 @@
+requests 
+pymongo 
+pandas
+dotenv
+psycopg2-binary
+apache-airflow 
+sqlalchemy
+psycopg2
